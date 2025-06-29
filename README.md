@@ -1,6 +1,13 @@
 # anime-weather-app
 
-A weather app that displays weather description, temperature toggles (celsius  and fahrenheit) and the anime animation that changes everytime u open the app.<br><br>
+A cozy little weather app that makes checking the forecast feel fun, friendly, and just a little bit anime 🌦️💛<br><br>
+
+
+<b><h1>✨ Features</h1><b>
+- 📍 Live weather data using OpenWeather API<br>
+- 🌡️ Temperature toggle: °C ↔ °F<br>
+- 🌥️ Weather description (e.g., Overcast Clouds)<br>
+- 🖼️ Custom animation and cute layout(2 characters)<br><br>
 
 <b><h1>It was build with...</h1><b>
 <li>HTML</li>
