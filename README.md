@@ -1,7 +1,11 @@
 # anime-weather-app
-A weather app built using HTML, CSS, JavaScript &amp; OpenWeather API. <br>
-Displays weather description<br>
-temperature toggles (celsius  and fahrenheit)<br>
-anime animation that changes everytime u open the app.<br>
 
-![Weather App Preview](weather-preview.png)
+A weather app that displays weather description, temperature toggles (celsius  and fahrenheit) and the anime animation that changes everytime u open the app.<br><br>
+
+<b><h1>It was build with...</h1><b>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>ElectronJS</li><br><br>
+
+![Weather App Preview](https://github.com/craftycoderro/anime-weather-app/blob/392afc2fc6d17e7a86d738c890306fc3030cc023/weather_preview.png)
